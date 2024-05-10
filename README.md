@@ -12,7 +12,8 @@ Video large language models are advanced AI systems designed to process and unde
 
 ### What Sets Video LLMs Apart?
 
-The primary distinction between video LLMs and traditional text-based models lies in their ability to process temporal and spatial data. Video LLMs are not only learning from static images but also the progression and changes within video clips, which involves understanding motion, predicting future actions, and even inferring emotions from facial expressions and voice tones.
+The primary distinction between video LLMs and traditional text-based models lies in their ability to process temporal and spatial data. Video LLMs are not only learning from static images but also the progression and changes within video clips, which involves understanding motion, predicting future actions, and even inferring emotions from facial expressions and voice tones. For example, below we see the architecture for Video-ChatGPT which uses an image encoder, then a combination of temporal and spatial pooling on the encodings. This allows the model to learn how to map the pooled encodings to the input of the model.
+![video_chat_gpt](/imgs/video_chat_gpt.png)
 
 ### Importance in AI Development
 

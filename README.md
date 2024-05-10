@@ -82,6 +82,8 @@ The annotation process is where the dataset begins to truly take form for traini
 - **Frame-by-Frame Descriptions**: Deploy state-of-the-art video captioning models to generate textual descriptions for each frame. These models are trained to recognize and describe a wide array of visual elements and actions.
 - **Merging Descriptions with LLMs**: To synthesize these frame-specific captions into coherent and contextual narratives, an advanced large language model is used. This model processes the sequential captions and merges them into comprehensive descriptions that maintain temporal and causal relationships observed across the frames.
 
+![merging](/imgs/merging.png)
+
 ### Quality Control and Dataset Validation
 
 Ensuring the accuracy and reliability of annotations is critical. This involves several layers of validation:

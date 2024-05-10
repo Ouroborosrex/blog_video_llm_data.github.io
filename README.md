@@ -1,4 +1,3 @@
-
 # Creating a Video Captioning Dataset for LLMs
 ![knight_caption](/imgs/knight_caption.png)
 ## Introduction
@@ -33,7 +32,7 @@ Diversity in video clips is crucial to avoid biases and ensure the model’s gen
 Including both short clips and longer sequences can help the model learn from different contexts and durations. Short clips can provide concise, focused content, while full-length videos offer a broader context, allowing the model to understand how individual elements interact over a longer period.
 
 ### Annotations and Metadata
-
+![chat_gpt](/imgs/chat_gpt_semi_automated_annotations.png)
 #### Descriptive Tags and Categories
 
 Videos should be tagged with descriptive labels that can help the model recognize and categorize content. These tags can include information about the objects, people, actions, and environments present in the video.

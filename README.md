@@ -1,4 +1,7 @@
-# Creating a Video Captioning Dataset for LLMs
+---
+title: Creating a Video Captioning Dataset for LLMs
+---
+
 ![knight_caption](/imgs/knight_caption.png)
 ## Introduction
 

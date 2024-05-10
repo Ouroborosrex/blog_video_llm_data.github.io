@@ -112,17 +112,17 @@ By employing advanced video captioning models and integrating their outputs usin
 Video large language models trained on well-annotated datasets have a broad range of applications across various sectors. Here are some prominent examples where these models can significantly impact:
 
 ### Content Recommendation and Management
-
+![media](/imgs/social_media.jpeg)
 - **Media Platforms**: Video LLMs can analyze viewer preferences and video content to recommend personalized media streams. By understanding the context and content of videos, these models can curate content that aligns with user interests more accurately than ever before.
 - **Content Categorization**: Efficient categorization of vast video libraries helps in better content management and retrieval, aiding platforms in maintaining organized and easily navigable databases.
 
 ### Surveillance and Public Safety
-
+![camera](/imgs/camera.jpeg)
 - **Real-time Monitoring**: Video LLMs can process live feeds to detect and alert for unusual activities or safety hazards, potentially preventing accidents or responding to emergencies more swiftly.
 - **Event Reconstruction**: In post-event analysis, these models can quickly sift through hours of footage to reconstruct events, aiding in investigations and reporting.
 
 ### Interactive and Immersive Technologies
-
+![VR](/imgs/VR.jpeg)
 - **Augmented Reality (AR) and Virtual Reality (VR)**: Video LLMs enhance AR and VR experiences by enabling more natural interactions within virtual environments, powered by the model’s understanding of real-world actions and contexts.
 - **Education and Training**: These models can be used to create interactive learning environments where users can engage with educational content in a dynamic, context-aware manner.
 

@@ -1,6 +1,6 @@
 
 # Creating a Video Captioning Dataset for LLMs
-
+![knight_caption](/imgs/knight_caption.png)
 ## Introduction
 
 In the rapidly evolving field of artificial intelligence, the advent of video large language models (LLMs) marks a significant leap toward understanding and interpreting dynamic visual content. Unlike their predecessors that primarily handle text or static images, video LLMs integrate the complexity of moving visuals with sound, enabling a deeper comprehension of multimedia content. This capability is crucial across a spectrum of applications, from enhancing autonomous vehicle technology to streamlining video content management systems.

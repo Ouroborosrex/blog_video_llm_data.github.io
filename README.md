@@ -43,7 +43,8 @@ For dynamic content, detailing specific actions and the timeline over which they
 
 #### Contextual Descriptions
 
-Providing contextual narratives or summaries can aid in comprehensive scene understanding. These descriptions can provide additional information about the video content, such as the relationships between objects, the overall theme or story, and any relevant background information.
+Providing contextual narratives or summaries can aid in comprehensive scene understanding. These descriptions can provide additional information about the video content, such as the relationships between objects, the overall theme or story, and any relevant background information. As seen in the results between VideoChat and the VideoChatGPT papers, improving the descriptions will heavily influence the model capabilities.
+![vcgpt_vs_vc](/imgs/vgpt_vs_vc.png)
 
 ### Challenges in Data Collection and Processing
 
